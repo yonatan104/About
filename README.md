@@ -56,8 +56,8 @@ opportunity to **work in web development.**
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/arikxl/github-readme-stats"><img alt="Arik Alexandrov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arikxl&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/arikxl/github-readme-stats"><img alt="Arik Alexandrov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikxl&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/arikxl/github-readme-stats"><img alt="Arik Alexandrov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yonatan104&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/yonatan104/github-readme-stats"><img alt="Arik Alexandrov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonatan104&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -65,7 +65,7 @@ opportunity to **work in web development.**
 <br/>
 <br/>
 <!-- <a href="https://github.com/arikxl/github-readme-activity-graph"> -->
-<a href="#"><img alt="Arik Alexandrov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arikxl&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Arik Alexandrov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yonatan104&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -75,7 +75,7 @@ opportunity to **work in web development.**
 
 <a href = "https://www.linkedin.com/in/yehonatan-geller-568515203//" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<a href = "https://t.me/Arik_A" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
+
 
 </p>
 
