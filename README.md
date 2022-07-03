@@ -17,6 +17,8 @@ opportunity to **work in web development.**
 
 - 📫 You can reach me in **yonatangeller@gmail.com**
 
+- 🎵 Cheack out my last project Melodify app inspired by Spotify **[Melodify](https://melodify-dya.herokuapp.com).**
+
 - ⚡ Fun fact: **I love logic challenges, news and surfing.**
 
 ## 🚀 Languages and Tools:
