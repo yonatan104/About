@@ -13,7 +13,7 @@ opportunity to **work in web development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/arikxl).**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/yonatan104).**
 
 - 📫 You can reach me in **yonatangeller@gmail.com**
 
